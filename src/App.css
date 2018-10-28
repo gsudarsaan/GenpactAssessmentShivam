@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.my-dropdown{
+  margin: auto;
+  min-width: 200px;
+}
+
+.edetails{
+  margin:20px;
+  padding: 10px;
+  font-size: 24px;
+  text-align: center;
+}
